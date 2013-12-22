@@ -20,7 +20,7 @@ function smarty_function_ci_lang( $params, $smarty ) {
         return 'Can\'t get CI instance';
     }
 
-    if (function_exists( $params['param2'] )) {
+    if (isset( $params['param2'] )) {
         return 'Please provide only one parameter';
     }
 
