@@ -1,4 +1,4 @@
-##Smarty CodeIgniter Language Helper
+##CodeIgniter Language Helper for Smarty
 Simple Smarty function to retrieve a message from a language file in CodeIgniter using its Language helper
 
 ###Installation
