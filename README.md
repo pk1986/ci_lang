@@ -15,5 +15,5 @@ application/third_party/Smarty/libs/plugins/
 ```
 
 ###Thanks to 
-More of Less - http://www.moreofless.co.uk/
-fadillzzz - https://github.com/fadillzzz
+* More of Less - http://www.moreofless.co.uk/
+* fadillzzz - https://github.com/fadillzzz
